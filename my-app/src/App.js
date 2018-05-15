@@ -3,6 +3,7 @@ import LandingArea from './components/landing_area';
 import PlayerCard from './components/player_card';
 import Footer from './components/footer';
 import players from './players.json';
+import "./styles/style.css"
 
 class App extends Component {
   state = {
