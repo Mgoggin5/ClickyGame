@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Andy Dalton",
+      "image": "img/Andy-Dalton.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Carson Palmer",
+      "image": "img/Carson-Palmer.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Carson Wentz",
+      "image": "img/Carson-Wentz.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Dak Prescott",
+      "image": "img/Dak-Prescott.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Drew Brees",
+      "image": "/img/Drew-Brees.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Eli Manning",
+      "image": "/img/Eli-Manning.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Josh McCown",
+      "image": "/img/Josh-McCown.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Kirk Cousins",
+      "image": "/img/Kirk-Cousins.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Peyton Manning",
+      "image": "/img/Peyton-Manning.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Russell Wilson",
+      "image": "/img/Russell-Wilson.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Ryan Tannehill",
+      "image": "/img/Ryan-Tannehill.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Tom Brady",
+      "image": "/img/Tom-Brady.jpg"
+    }
+  ]
