@@ -6,7 +6,7 @@ const LandingArea = ({ instructions, topScore, score }) => {
       <nav className="navbar-heading">
         <ul>
           <li>
-            <a href="/">NFL Memory Game</a>
+            <a href="/">NFL Clicky Game</a>
           </li>
 
           <li className="display-msg">{instructions}</li>
@@ -20,10 +20,6 @@ const LandingArea = ({ instructions, topScore, score }) => {
         <div className="img-mask">
           <div className="landing-content">
             <h1>NFL Clicky Game</h1>
-            <h2>
-              Click on a player to earn points, but don't click on any more than
-              once!
-            </h2>
           </div>
         </div>
       </div>
