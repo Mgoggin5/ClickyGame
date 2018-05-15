@@ -19,7 +19,7 @@ const LandingArea = ({ instructions, topScore, score }) => {
       <div className="bg-img">
         <div className="img-mask">
           <div className="landing-content">
-            <h1>NBA Memory Game</h1>
+            <h1>NFL Clicky Game</h1>
             <h2>
               Click on a player to earn points, but don't click on any more than
               once!

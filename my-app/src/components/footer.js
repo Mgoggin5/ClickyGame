@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="bottom">
-        NBA Memory Game!
+        NFL Memory Game!
         <img src={Logo} alt="logo" />
       </div>
     </footer>
