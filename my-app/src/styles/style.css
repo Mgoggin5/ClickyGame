@@ -14,7 +14,7 @@
   }
   
   .navbar-heading {
-    background: #25a58e;
+    background: rgb(0, 81, 255);
     min-height: 70px;
     position: fixed;
     width: 100%;
@@ -79,7 +79,7 @@
   
   .landing-content h2 {
     margin-top: 15px;
-    color: #27ddbc;
+    color: white;
   }
   
   .container {
@@ -115,7 +115,7 @@
   }
   
   .footer {
-    background: #27ddbc;
+    background: rgb(0, 81, 255);
     height: 100px;
     position: relative;
     color: white;
@@ -127,7 +127,7 @@
     bottom: 0;
     left: 0;
     right: 0;
-    background: #25a58e;
+    background: red;
     padding: 8px;
     font-weight: 600;
   }
